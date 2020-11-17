@@ -1,0 +1,10 @@
+2020-11-17 14:09:29,854 [main] [com.example.demo.SpringbootLogbackAsyncApplication] [INFO] - Starting SpringbootLogbackAsyncApplication on DESKTOP-MPF9R39 with PID 13652 (E:\workspace-spring-tool-suite-4-4.1.2.RELEASE\springboot-logback-async\target\classes started by zuoruibo in E:\workspace-spring-tool-suite-4-4.1.2.RELEASE\springboot-logback-async)
+2020-11-17 14:09:29,856 [main] [com.example.demo.SpringbootLogbackAsyncApplication] [DEBUG] - Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2020-11-17 14:09:29,857 [main] [com.example.demo.SpringbootLogbackAsyncApplication] [INFO] - No active profile set, falling back to default profiles: default
+2020-11-17 14:09:31,176 [main] [com.example.demo.SpringbootLogbackAsyncApplication] [INFO] - Started SpringbootLogbackAsyncApplication in 1.623 seconds (JVM running for 3.362)
+2020-11-17 14:09:48,234 [http-nio-9090-exec-1] [com.example.demo.config.MyHttpInterceptor] [INFO] - 请求参数, url: http://localhost:9090/error, method: GET, params: null
+2020-11-17 14:09:48,743 [http-nio-9090-exec-2] [com.example.demo.config.MyHttpInterceptor] [INFO] - 请求参数, url: http://localhost:9090/error, method: GET, params: null
+2020-11-17 14:09:49,358 [http-nio-9090-exec-3] [com.example.demo.config.MyHttpInterceptor] [INFO] - 请求参数, url: http://localhost:9090/error, method: GET, params: null
+2020-11-17 14:09:49,958 [http-nio-9090-exec-4] [com.example.demo.config.MyHttpInterceptor] [INFO] - 请求参数, url: http://localhost:9090/error, method: GET, params: null
+2020-11-17 14:09:50,131 [http-nio-9090-exec-5] [com.example.demo.config.MyHttpInterceptor] [INFO] - 请求参数, url: http://localhost:9090/hello, method: GET, params: null
+2020-11-17 14:09:50,132 [http-nio-9090-exec-5] [com.example.demo.rest.InitRest] [INFO] - hello
